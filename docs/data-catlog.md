@@ -1,60 +1,56 @@
-📘 Data Catalog – Healthcare Gold Layer
-Overview
+# Data Catalog - Gold Layer
 
-The Gold Layer contains analytics-ready data modeled using dimension tables and fact tables.
-This layer represents the business-level view designed for dashboards, reporting, and advanced analysis.
+## Overview
 
-🟦 1. gold.dim_patient
+The Gold Layer represents business-level data structured to support analytical and reporting use cases. It consists of dimension tables and fact tables for healthcare metrics including visits, diagnoses, and patient-doctor interactions.
 
-Purpose: Stores enriched patient details used for analytics.
+## Tables
 
-Columns
-Column Name	Data Type	Description
-patient_key	INT	Surrogate primary key for each patient.
-patient_id	INT	Business key from the Silver layer.
-patient_name	VARCHAR(200)	Full patient name (first + last).
-gender	ENUM	Gender of the patient (‘Male’, ‘Female’, ‘Other’).
-age	INT	Age calculated from date_of_birth.
-🟩 2. gold.dim_doctor
+### gold.dim_patient
 
-Purpose: Stores doctor information used for reporting and analytics.
+**Purpose**: Stores patient identity and demographic information enriched for analytics.
 
-Columns
-Column Name	Data Type	Description
-doctor_key	INT	Surrogate primary key for each doctor.
-doctor_id	INT	Business key from the Silver layer.
-doctor_name	VARCHAR(200)	Full doctor name (first + last).
-specialization	VARCHAR(100)	Medical specialization (e.g., Cardiology, Orthopedics).
-🟨 3. gold.dim_date
+| Column Name | Data Type | Description |
+|-------------|-----------|-------------|
+| patient_key | INT | Surrogate key uniquely identifying each patient in the dimension table |
+| patient_id | INT | Business key from the source Silver layer |
+| patient_name | VARCHAR(200) | Full patient name (first name + last name) |
+| gender | ENUM | Gender of the patient ('Male', 'Female', 'Other') |
+| age | INT | Age of the patient computed from date_of_birth |
 
-Purpose: Stores unique calendar dates for time-series analytics.
+### gold.dim_doctor
 
-Columns
-Column Name	Data Type	Description
-date_key	INT	Surrogate primary key for each date.
-full_date	DATE	Actual date of patient visit.
-🟥 4. gold.fact_visits
+**Purpose**: Stores doctor information including their identity and specialization.
 
-Purpose: Stores transactional visit data and metrics for analytics.
+| Column Name | Data Type | Description |
+|-------------|-----------|-------------|
+| doctor_key | INT | Surrogate key uniquely identifying each doctor in the dimension table |
+| doctor_id | INT | Business key representing the doctor |
+| doctor_name | VARCHAR(200) | Full doctor name (first name + last name) |
+| specialization | VARCHAR(100) | Area of medical expertise such as Pediatrics, Cardiology, Dermatology, etc. |
 
-Columns
-Column Name	Data Type	Description
-visit_key	INT	Surrogate key for each visit record.
-patient_key	INT	Foreign key → dim_patient.patient_key.
-patient_name	VARCHAR(200)	Denormalized patient name for convenience.
-doctor_key	INT	Foreign key → dim_doctor.doctor_key.
-doctor_name	VARCHAR(200)	Denormalized doctor name for convenience.
-date_key	INT	Foreign key → dim_date.date_key.
-full_date	DATE	Actual date of the visit.
-consultation_fee	DECIMAL(12,2)	Fee collected for the visit.
-diagnosis_code	VARCHAR(100)	Diagnosis code or description.
-severity	VARCHAR(20)	Severity level (e.g., Mild, Moderate, Severe).
-📌 Notes
+### gold.dim_date
 
-Surrogate keys (patient_key, doctor_key, date_key, visit_key) ensure data warehouse consistency.
+**Purpose**: Stores calendar dates used for time-series reporting.
 
-Fact table includes denormalized names for performance improvement.
+| Column Name | Data Type | Description |
+|-------------|-----------|-------------|
+| date_key | INT | Surrogate key uniquely identifying each date entry |
+| full_date | DATE | Actual date (YYYY-MM-DD) corresponding to patient visit records |
 
-Dimension tables come from clean Silver data.
+### gold.fact_visits
 
-Fact table combines Visits + Diagnosis + Dimensions for analytics.
+**Purpose**: Stores detailed visit-level facts combining patient, doctor, diagnosis, and billing information.
+
+| Column Name | Data Type | Description |
+|-------------|-----------|-------------|
+| visit_key | INT | Surrogate key uniquely identifying each visit record |
+| patient_key | INT | Foreign key referencing dim_patient.patient_key |
+| patient_name | VARCHAR(200) | Denormalized patient name for fast reporting |
+| doctor_key | INT | Foreign key referencing dim_doctor.doctor_key |
+| doctor_name | VARCHAR(200) | Denormalized doctor name for fast reporting |
+| date_key | INT | Foreign key referencing dim_date.date_key |
+| full_date | DATE | Actual visit date |
+| consultation_fee | DECIMAL(12,2) | Billed consultation amount |
+| diagnosis_code | VARCHAR(100) | Diagnosis description or ICD code |
+| severity | VARCHAR(20) | Severity level of diagnosis such as Mild, Moderate, Severe |
