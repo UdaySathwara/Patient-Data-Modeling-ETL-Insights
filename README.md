@@ -68,11 +68,8 @@ Healthcare-Data-Warehouse/
 │
 ├── Python/                           # Python ETL scripts
 │   ├── etl_load_bronze.py
-│   ├── etl_transform_to_silver.py
-│   └── etl_create_gold.py
-│
-├── Architecture/                     # Architecture diagrams
-│   └── healthcare_dw_architecture.png
+│   └── etl_transform_to_silver.py
+│   
 │
 └─── .gitignore                       # Project overview and instructions
 └─── LICENSE                          # License information for the repository 
