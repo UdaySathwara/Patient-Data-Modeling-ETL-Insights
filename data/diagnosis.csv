@@ -1,0 +1,1201 @@
+diagnosis_id,visit_id,diagnosis,severity
+1,1,Allergy,Severe
+2,2,Back Pain,Severe
+3,3,Migraine,Mild
+4,4,Back Pain,Moderate
+5,5,Migraine,Moderate
+6,6,Infection,Mild
+7,7,Infection,Mild
+8,8,Covid-19,Severe
+9,9,Back Pain,Mild
+10,10,Allergy,Severe
+11,11,Allergy,Severe
+12,12,Flu,Severe
+13,13,Covid-19,Moderate
+14,14,Back Pain,Severe
+15,1382,Migraine,Mild
+16,16,Allergy,Severe
+17,17,Migraine,Moderate
+18,18,Migraine,Severe
+19,19,Allergy,Severe
+20,20,Infection,Mild
+21,21,Back Pain,Severe
+19,22,Infection,Mild
+23,23,Back Pain,Mild
+24,24,Back Pain,Severe
+25,25,Allergy,Moderate
+26,26,Flu,Severe
+27,1279,Back Pain,Moderate
+28,28,Covid-19,Severe
+29,29,Allergy,Mild
+30,30,Flu,Moderate
+31,31,Flu,Severe
+32,32,Back Pain,Severe
+33,33,Back Pain,Moderate
+34,34,Flu,Mild
+35,35,Flu,Severe
+36,36,Allergy,Severe
+37,37,Infection,Mild
+38,38,Flu,Severe
+39,39,Allergy,Severe
+40,40,Allergy,Moderate
+41,41,Covid-19,Severe
+42,42,Migraine,Moderate
+43,43,Flu,Mild
+44,44,Covid-19,Severe
+45,45,Migraine,Moderate
+46,46,Migraine,Severe
+47,47,Allergy,Moderate
+48,48,Back Pain,Mild
+49,49,Flu,Mild
+50,50,Flu,Moderate
+51,51,Back Pain,Moderate
+52,52,Back Pain,Severe
+53,53,Allergy,Mild
+54,54,Allergy,Mild
+55,55,Flu,Severe
+56,56,Infection,Moderate
+57,57,Infection,Mild
+58,58,Covid-19,Mild
+59,59,Allergy,Moderate
+60,1481,Back Pain,Moderate
+61,61,Back Pain,Mild
+62,62,Back Pain,Mild
+63,63,Covid-19,Moderate
+64,64,Migraine,Severe
+14,65,Back Pain,Severe
+66,66,Migraine,Mild
+67,67,Infection,Moderate
+68,68,Allergy,Severe
+69,1485,Migraine,Moderate
+70,70,Allergy,Moderate
+71,71,Flu,Mild
+72,72,Covid-19,Mild
+73,73,Covid-19,Mild
+74,74,Back Pain,Mild
+75,75,Allergy,Mild
+76,76,Back Pain,Moderate
+77,77,Covid-19,Mild
+78,78,Flu,Severe
+26,79,Migraine,Moderate
+80,80,Covid-19,Severe
+81,81,Allergy,Severe
+82,82,Allergy,Moderate
+83,83,Migraine,Mild
+84,1378,Flu,Severe
+85,85,Infection,Mild
+86,86,Flu,Severe
+87,87,Allergy,Moderate
+88,88,Covid-19,Moderate
+89,89,Migraine,Severe
+90,90,Covid-19,Moderate
+91,91,Infection,Severe
+92,92,Infection,Mild
+93,93,Migraine,Moderate
+94,94,Back Pain,Severe
+95,95,Allergy,Mild
+96,96,Back Pain,Moderate
+97,97,Infection,Moderate
+98,98,Covid-19,Mild
+99,99,Infection,Severe
+100,100,Infection,Moderate
+101,101,Back Pain,Severe
+102,102,Migraine,Moderate
+103,103,Back Pain,Moderate
+104,104,Migraine,Mild
+105,105,Back Pain,Mild
+98,106,Covid-19,Mild
+107,107,Infection,Mild
+108,108,Flu,Moderate
+109,109,Allergy,Mild
+110,110,Covid-19,Severe
+111,1216,Covid-19,Severe
+112,1471,Migraine,Moderate
+113,113,Allergy,Moderate
+114,114,Migraine,Mild
+115,115,Back Pain,Mild
+116,116,Infection,Mild
+117,117,Allergy,Severe
+118,118,Flu,Moderate
+119,119,Migraine,Mild
+120,120,Allergy,Mild
+121,121,Infection,Mild
+79,122,Covid-19,Mild
+123,123,Flu,Mild
+124,124,Infection,Severe
+125,125,Migraine,Moderate
+126,126,Back Pain,Moderate
+127,127,Covid-19,Moderate
+128,128,Flu,Mild
+129,129,Migraine,Moderate
+130,130,Covid-19,Moderate
+131,131,Covid-19,Moderate
+132,132,Migraine,Severe
+133,1324,Flu,Moderate
+134,134,Migraine,Mild
+42,135,Migraine,Severe
+136,136,Flu,Mild
+137,137,Infection,Mild
+138,138,Infection,Mild
+139,139,Back Pain,Mild
+140,140,Migraine,Moderate
+141,141,Migraine,Severe
+142,142,Allergy,Severe
+143,143,Allergy,Moderate
+144,144,Infection,Severe
+145,145,Migraine,Severe
+146,146,Allergy,Moderate
+147,147,Infection,Mild
+148,148,Allergy,Severe
+149,149,Flu,Severe
+150,150,Allergy,Severe
+151,151,Migraine,Severe
+152,152,Allergy,Moderate
+153,153,Back Pain,Moderate
+154,154,Migraine,Moderate
+155,155,Infection,Mild
+156,156,Back Pain,Severe
+157,157,Allergy,Moderate
+158,158,Migraine,Mild
+159,159,Covid-19,Mild
+160,160,Allergy,Moderate
+161,161,Allergy,Severe
+162,162,Covid-19,Moderate
+163,163,Covid-19,Severe
+164,164,Covid-19,Severe
+165,165,Flu,Mild
+166,166,Infection,Severe
+167,167,Infection,Moderate
+168,168,Flu,Moderate
+169,169,Allergy,Severe
+170,170,Migraine,Mild
+171,171,Flu,Moderate
+172,172,Covid-19,Moderate
+173,173,Allergy,Mild
+174,174,Flu,Mild
+175,175,Covid-19,Mild
+176,176,Infection,Mild
+177,177,Infection,Severe
+178,178,Migraine,Mild
+179,179,Covid-19,Mild
+180,180,Migraine,Moderate
+181,181,Migraine,Mild
+182,182,Back Pain,Mild
+183,183,Covid-19,Severe
+184,184,Covid-19,Severe
+185,185,Flu,Moderate
+186,186,Flu,Mild
+187,187,Flu,Moderate
+188,188,Back Pain,Moderate
+189,189,Back Pain,Severe
+190,190,Infection,Moderate
+191,191,Infection,Mild
+192,192,Infection,Moderate
+193,193,Allergy,Mild
+194,194,Migraine,Mild
+195,195,Flu,Mild
+40,196,Allergy,Mild
+197,197,Flu,Moderate
+198,198,Back Pain,Severe
+199,199,Flu,Mild
+200,200,Flu,Mild
+201,201,Covid-19,Moderate
+202,202,Flu,Severe
+203,203,Covid-19,Severe
+204,204,Flu,Mild
+205,205,Migraine,Moderate
+206,206,Infection,Mild
+207,207,Allergy,Moderate
+208,208,Migraine,Mild
+209,209,Migraine,Moderate
+210,210,Covid-19,Severe
+211,1496,Allergy,Mild
+212,212,Infection,Severe
+213,213,Infection,Mild
+214,214,Covid-19,Moderate
+215,215,Infection,Mild
+216,216,Back Pain,Mild
+217,217,Allergy,Mild
+218,218,Covid-19,Moderate
+219,219,Allergy,Severe
+220,220,Covid-19,Moderate
+221,221,Allergy,Mild
+222,222,Infection,Moderate
+223,223,Back Pain,Severe
+224,224,Allergy,Moderate
+225,225,Flu,Mild
+102,226,Allergy,Moderate
+227,227,Flu,Moderate
+228,228,Migraine,Severe
+229,229,Back Pain,Mild
+230,230,Infection,Severe
+231,231,Allergy,Mild
+232,232,Covid-19,Moderate
+233,233,Back Pain,Mild
+234,234,Back Pain,Moderate
+235,235,Infection,Moderate
+236,236,Back Pain,Severe
+237,237,Covid-19,Moderate
+238,238,Back Pain,Mild
+239,239,Covid-19,Mild
+240,240,Allergy,Severe
+241,241,Flu,Mild
+242,242,Migraine,Severe
+243,243,Back Pain,Mild
+244,244,Infection,Severe
+245,245,Back Pain,Severe
+246,246,Flu,Mild
+247,247,Flu,Severe
+248,248,Covid-19,Severe
+249,249,Infection,Severe
+250,250,Covid-19,Severe
+251,251,Back Pain,Mild
+252,252,Infection,Mild
+253,253,Back Pain,Moderate
+254,254,Flu,Severe
+255,1294,Allergy,Moderate
+256,256,Back Pain,Moderate
+257,257,Infection,Moderate
+258,258,Infection,Severe
+259,259,Back Pain,Severe
+260,260,Back Pain,Moderate
+261,1441,Flu,Moderate
+262,262,Allergy,Severe
+263,263,Back Pain,Severe
+264,264,Migraine,Moderate
+150,265,Migraine,Mild
+266,266,Migraine,Severe
+267,267,Migraine,Severe
+268,268,Infection,Severe
+269,269,Covid-19,Moderate
+270,270,Infection,Mild
+271,1205,Flu,Severe
+272,272,Flu,Mild
+273,273,Infection,Moderate
+274,274,Back Pain,Mild
+275,275,Flu,Mild
+276,276,Infection,Moderate
+277,277,Flu,Severe
+278,278,Allergy,Mild
+145,279,Back Pain,Mild
+280,280,Migraine,Moderate
+281,281,Infection,Mild
+282,282,Allergy,Severe
+283,283,Flu,Severe
+284,284,Covid-19,Mild
+285,285,Flu,Mild
+286,286,Infection,Severe
+287,287,Covid-19,Moderate
+288,288,Back Pain,Severe
+289,289,Infection,Mild
+290,290,Back Pain,Moderate
+291,291,Back Pain,Moderate
+292,292,Back Pain,Mild
+293,293,Infection,Moderate
+294,294,Infection,Moderate
+295,295,Migraine,Mild
+296,296,Allergy,Severe
+297,297,Back Pain,Mild
+298,298,Allergy,Severe
+299,299,Flu,Moderate
+300,300,Infection,Mild
+301,301,Back Pain,Mild
+302,302,Covid-19,Moderate
+303,1230,Infection,Moderate
+304,304,Allergy,Moderate
+305,305,Back Pain,Mild
+306,306,Back Pain,Moderate
+307,1249,Covid-19,Moderate
+308,308,Covid-19,Severe
+309,309,Migraine,Mild
+310,310,Allergy,Severe
+311,311,Infection,Severe
+312,312,Migraine,Severe
+313,313,Migraine,Severe
+314,314,Migraine,Mild
+315,315,Migraine,Moderate
+316,316,Infection,Mild
+317,317,Back Pain,Mild
+318,318,Flu,Moderate
+319,319,Back Pain,Mild
+320,320,Allergy,Moderate
+321,321,Allergy,Mild
+322,322,Back Pain,Mild
+323,323,Covid-19,Mild
+324,324,Migraine,Moderate
+325,325,Back Pain,Moderate
+326,326,Covid-19,Mild
+327,327,Infection,Severe
+328,328,Covid-19,Moderate
+329,1441,Migraine,Moderate
+330,330,Allergy,Severe
+331,331,Covid-19,Mild
+71,332,Allergy,Moderate
+333,333,Covid-19,Mild
+334,334,Back Pain,Mild
+335,335,Allergy,Mild
+336,336,Flu,Severe
+337,337,Flu,Moderate
+338,338,Flu,Mild
+339,339,Covid-19,Severe
+340,340,Back Pain,Mild
+341,341,Covid-19,Moderate
+342,342,Back Pain,Severe
+343,343,Back Pain,Mild
+344,344,Migraine,Moderate
+345,345,Infection,Severe
+346,346,Back Pain,Severe
+347,347,Infection,Severe
+348,1265,Infection,Mild
+349,349,Migraine,Mild
+350,350,Flu,Moderate
+351,351,Infection,Severe
+352,1346,Back Pain,Severe
+353,353,Flu,Moderate
+354,354,Allergy,Moderate
+355,355,Infection,Moderate
+356,356,Covid-19,Moderate
+357,357,Allergy,Severe
+358,358,Migraine,Mild
+359,359,Migraine,Moderate
+360,360,Infection,Moderate
+361,361,Migraine,Mild
+362,362,Covid-19,Mild
+363,363,Covid-19,Severe
+233,364,Migraine,Severe
+365,365,Migraine,Severe
+366,1429,Infection,Moderate
+367,367,Infection,Severe
+368,368,Allergy,Moderate
+369,369,Covid-19,Severe
+370,370,Flu,Mild
+371,371,Allergy,Severe
+372,372,Flu,Moderate
+373,373,Migraine,Severe
+374,374,Flu,Mild
+375,375,Migraine,Severe
+376,376,Migraine,Moderate
+377,377,Infection,Severe
+378,378,Covid-19,Moderate
+379,379,Flu,Severe
+380,380,Flu,Severe
+381,381,Infection,Mild
+382,382,Covid-19,Moderate
+383,383,Migraine,Moderate
+384,384,Migraine,Moderate
+385,385,Covid-19,Moderate
+386,386,Back Pain,Severe
+387,387,Migraine,Moderate
+388,388,Allergy,Moderate
+389,389,Flu,Mild
+390,390,Migraine,Moderate
+391,391,Migraine,Mild
+392,392,Covid-19,Mild
+393,1234,Migraine,Moderate
+394,394,Back Pain,Moderate
+395,1268,Flu,Moderate
+396,396,Allergy,Moderate
+397,397,Back Pain,Mild
+398,398,Migraine,Mild
+399,399,Flu,Mild
+400,1341,Flu,Moderate
+401,401,Migraine,Severe
+402,402,Infection,Moderate
+403,403,Back Pain,Severe
+404,404,Allergy,Severe
+405,405,Covid-19,Moderate
+406,406,Back Pain,Severe
+407,407,Covid-19,Moderate
+408,408,Migraine,Moderate
+409,409,Flu,Mild
+410,410,Migraine,Severe
+411,411,Infection,Mild
+412,412,Flu,Moderate
+413,413,Migraine,Moderate
+414,414,Allergy,Mild
+415,415,Allergy,Mild
+416,416,Covid-19,Severe
+417,417,Infection,Mild
+418,418,Flu,Moderate
+419,419,Allergy,Moderate
+420,420,Allergy,Moderate
+421,421,Migraine,Mild
+398,422,Allergy,Mild
+423,423,Flu,Mild
+424,424,Infection,Mild
+425,425,Covid-19,Severe
+426,426,Flu,Moderate
+427,427,Migraine,Moderate
+428,428,Covid-19,Mild
+429,429,Infection,Mild
+430,430,Back Pain,Moderate
+431,431,Covid-19,Severe
+432,432,Infection,Moderate
+433,433,Covid-19,Moderate
+434,434,Migraine,Mild
+435,435,Infection,Severe
+436,436,Covid-19,Severe
+437,437,Flu,Mild
+438,438,Flu,Mild
+439,439,Allergy,Moderate
+440,440,Allergy,Severe
+441,441,Allergy,Severe
+442,442,Back Pain,Mild
+443,443,Flu,Moderate
+444,444,Back Pain,Mild
+445,445,Allergy,Severe
+446,446,Flu,Mild
+447,447,Back Pain,Mild
+448,448,Migraine,Mild
+250,449,Back Pain,Moderate
+450,450,Flu,Severe
+451,451,Covid-19,Moderate
+452,452,Covid-19,Mild
+453,453,Allergy,Mild
+454,454,Covid-19,Severe
+455,455,Back Pain,Mild
+456,456,Allergy,Moderate
+457,457,Back Pain,Severe
+458,458,Back Pain,Severe
+459,459,Flu,Severe
+460,460,Migraine,Mild
+461,461,Migraine,Moderate
+462,462,Flu,Severe
+463,463,Flu,Mild
+464,464,Covid-19,Mild
+465,465,Migraine,Moderate
+466,466,Infection,Moderate
+467,467,Allergy,Moderate
+468,468,Back Pain,Moderate
+469,469,Covid-19,Moderate
+470,470,Covid-19,Moderate
+471,471,Allergy,Mild
+472,472,Migraine,Moderate
+473,473,Back Pain,Severe
+14,474,Allergy,Moderate
+475,475,Flu,Mild
+476,476,Allergy,Mild
+477,477,Allergy,Mild
+478,478,Flu,Moderate
+479,479,Allergy,Mild
+480,480,Back Pain,Mild
+481,481,Allergy,Severe
+482,482,Migraine,Mild
+483,483,Infection,Mild
+484,484,Migraine,Mild
+485,485,Back Pain,Moderate
+486,486,Flu,Severe
+487,487,Migraine,Severe
+488,488,Infection,Mild
+489,489,Infection,Severe
+490,490,Allergy,Mild
+491,491,Infection,Mild
+492,1382,Infection,Severe
+493,493,Back Pain,Severe
+494,494,Covid-19,Severe
+94,495,Flu,Severe
+496,496,Migraine,Severe
+497,497,Covid-19,Mild
+498,498,Flu,Moderate
+499,499,Allergy,Severe
+500,500,Covid-19,Mild
+501,501,Flu,Mild
+502,502,Covid-19,Moderate
+503,503,Back Pain,Moderate
+504,504,Infection,Mild
+505,1372,Back Pain,Moderate
+506,506,Migraine,Severe
+507,507,Migraine,Mild
+508,508,Allergy,Mild
+509,509,Allergy,Mild
+510,510,Back Pain,Moderate
+511,511,Infection,Mild
+512,512,Migraine,Severe
+513,513,Allergy,Severe
+514,514,Allergy,Moderate
+515,515,Flu,Moderate
+384,516,Allergy,Severe
+517,517,Infection,Severe
+518,518,Flu,Mild
+519,519,Back Pain,Moderate
+520,1485,Infection,Moderate
+521,521,Covid-19,Severe
+10,522,Infection,Mild
+523,523,Back Pain,Mild
+524,524,Allergy,Severe
+525,525,Back Pain,Moderate
+526,526,Covid-19,Mild
+527,527,Flu,Moderate
+528,528,Flu,Severe
+529,529,Covid-19,Severe
+530,530,Infection,Moderate
+531,531,Infection,Mild
+532,532,Migraine,Moderate
+533,533,Allergy,Mild
+534,534,Covid-19,Mild
+535,535,Migraine,Severe
+536,536,Covid-19,Severe
+537,537,Infection,Severe
+538,538,Migraine,Mild
+539,539,Infection,Moderate
+540,540,Flu,Mild
+541,541,Covid-19,Mild
+542,542,Covid-19,Severe
+543,543,Infection,Severe
+544,544,Covid-19,Mild
+514,545,Allergy,Mild
+546,546,Flu,Mild
+547,547,Migraine,Severe
+548,1253,Migraine,Moderate
+549,549,Infection,Moderate
+550,550,Allergy,Mild
+551,551,Covid-19,Severe
+552,552,Flu,Mild
+553,553,Back Pain,Moderate
+554,554,Migraine,Mild
+555,555,Allergy,Severe
+556,556,Covid-19,Moderate
+557,1443,Allergy,Severe
+558,558,Migraine,Mild
+559,559,Allergy,Moderate
+560,560,Migraine,Moderate
+561,561,Allergy,Mild
+562,562,Allergy,Severe
+563,563,Migraine,Mild
+564,564,Allergy,Moderate
+565,565,Migraine,Moderate
+566,566,Allergy,Moderate
+567,567,Migraine,Moderate
+568,568,Infection,Severe
+569,569,Back Pain,Severe
+570,570,Flu,Severe
+571,571,Covid-19,Mild
+572,572,Infection,Moderate
+573,573,Migraine,Moderate
+574,574,Back Pain,Severe
+575,575,Infection,Mild
+576,576,Infection,Mild
+577,577,Infection,Severe
+578,578,Back Pain,Mild
+579,579,Allergy,Moderate
+580,580,Flu,Mild
+581,581,Covid-19,Mild
+582,582,Flu,Severe
+583,583,Infection,Moderate
+584,584,Back Pain,Moderate
+490,585,Infection,Moderate
+586,586,Allergy,Moderate
+587,587,Migraine,Severe
+588,588,Migraine,Severe
+589,589,Allergy,Severe
+590,590,Flu,Moderate
+591,591,Flu,Moderate
+529,592,Back Pain,Mild
+593,593,Covid-19,Moderate
+594,594,Covid-19,Moderate
+595,595,Migraine,Severe
+596,596,Covid-19,Moderate
+597,597,Covid-19,Moderate
+598,598,Allergy,Moderate
+599,599,Flu,Mild
+600,600,Flu,Moderate
+601,601,Flu,Moderate
+602,602,Back Pain,Moderate
+603,603,Migraine,Moderate
+604,604,Infection,Moderate
+605,605,Infection,Mild
+606,606,Flu,Mild
+607,607,Allergy,Severe
+608,608,Covid-19,Moderate
+609,609,Infection,Mild
+610,610,Back Pain,Moderate
+611,611,Infection,Severe
+612,612,Back Pain,Moderate
+613,613,Migraine,Severe
+614,614,Covid-19,Severe
+615,615,Flu,Mild
+616,616,Allergy,Severe
+617,617,Flu,Severe
+618,618,Back Pain,Moderate
+619,619,Infection,Mild
+620,620,Migraine,Severe
+621,621,Infection,Severe
+622,622,Migraine,Mild
+623,623,Migraine,Moderate
+624,624,Infection,Severe
+625,625,Flu,Moderate
+626,626,Covid-19,Severe
+627,627,Covid-19,Moderate
+628,628,Back Pain,Mild
+39,629,Covid-19,Moderate
+630,630,Back Pain,Mild
+631,631,Allergy,Mild
+632,632,Migraine,Severe
+633,633,Flu,Severe
+634,634,Migraine,Mild
+635,635,Flu,Moderate
+636,1353,Infection,Mild
+637,637,Allergy,Severe
+638,638,Infection,Moderate
+639,639,Covid-19,Mild
+640,640,Covid-19,Moderate
+641,641,Migraine,Severe
+642,642,Flu,Severe
+643,643,Infection,Moderate
+644,644,Flu,Severe
+645,645,Flu,Severe
+646,646,Infection,Severe
+647,647,Infection,Severe
+648,648,Covid-19,Severe
+649,649,Infection,Moderate
+650,650,Allergy,Mild
+64,651,Infection,Severe
+652,652,Infection,Mild
+653,653,Covid-19,Severe
+654,654,Back Pain,Mild
+655,655,Flu,Moderate
+656,656,Back Pain,Moderate
+657,657,Flu,Moderate
+658,658,Migraine,Moderate
+659,659,Back Pain,Moderate
+660,660,Flu,Mild
+661,661,Migraine,Mild
+662,662,Flu,Mild
+663,663,Infection,Moderate
+664,664,Allergy,Mild
+665,665,Infection,Severe
+666,666,Back Pain,Mild
+667,667,Back Pain,Mild
+668,668,Allergy,Moderate
+118,669,Covid-19,Severe
+670,670,Flu,Severe
+671,671,Covid-19,Severe
+672,672,Flu,Mild
+673,1208,Migraine,Mild
+674,674,Covid-19,Moderate
+675,675,Infection,Mild
+676,676,Covid-19,Moderate
+677,677,Allergy,Mild
+678,678,Infection,Mild
+679,679,Back Pain,Severe
+680,680,Flu,Severe
+681,681,Infection,Moderate
+682,682,Infection,Moderate
+683,683,Infection,Severe
+184,684,Back Pain,Moderate
+685,685,Allergy,Severe
+686,686,Infection,Moderate
+687,687,Covid-19,Mild
+688,688,Back Pain,Mild
+689,689,Allergy,Moderate
+690,690,Back Pain,Moderate
+691,691,Infection,Moderate
+692,692,Covid-19,Moderate
+693,693,Covid-19,Mild
+694,694,Flu,Mild
+695,695,Infection,Severe
+696,696,Allergy,Severe
+697,697,Back Pain,Mild
+698,698,Allergy,Mild
+699,699,Covid-19,Mild
+700,700,Flu,Mild
+701,701,Allergy,Severe
+702,702,Covid-19,Mild
+3,703,Back Pain,Severe
+704,704,Back Pain,Moderate
+705,705,Back Pain,Moderate
+706,706,Covid-19,Severe
+707,1348,Allergy,Mild
+708,708,Back Pain,Mild
+709,1392,Migraine,Moderate
+710,710,Infection,Mild
+711,711,Covid-19,Moderate
+712,712,Allergy,Severe
+713,713,Flu,Mild
+714,714,Migraine,Moderate
+715,715,Covid-19,Mild
+716,716,Allergy,Severe
+717,717,Covid-19,Moderate
+718,718,Infection,Moderate
+393,719,Infection,Severe
+720,720,Back Pain,Severe
+721,721,Back Pain,Mild
+722,722,Covid-19,Severe
+723,723,Allergy,Moderate
+724,724,Infection,Mild
+725,725,Back Pain,Severe
+726,726,Migraine,Mild
+727,727,Back Pain,Moderate
+728,1490,Allergy,Moderate
+283,729,Allergy,Mild
+730,730,Flu,Mild
+731,731,Allergy,Severe
+732,732,Allergy,Moderate
+733,733,Allergy,Mild
+734,1382,Flu,Mild
+735,735,Infection,Mild
+736,736,Infection,Mild
+737,737,Migraine,Severe
+738,738,Migraine,Mild
+739,739,Allergy,Moderate
+740,740,Allergy,Moderate
+741,741,Covid-19,Severe
+742,742,Covid-19,Moderate
+743,743,Infection,Mild
+744,744,Back Pain,Severe
+745,745,Flu,Moderate
+746,746,Infection,Moderate
+747,747,Allergy,Mild
+748,748,Flu,Mild
+749,749,Covid-19,Mild
+750,750,Covid-19,Moderate
+751,751,Allergy,Severe
+752,752,Back Pain,Moderate
+753,753,Covid-19,Moderate
+754,754,Allergy,Mild
+755,755,Back Pain,Severe
+756,756,Covid-19,Severe
+757,757,Migraine,Moderate
+758,758,Flu,Moderate
+759,1349,Infection,Mild
+760,760,Covid-19,Moderate
+761,761,Flu,Severe
+762,762,Migraine,Severe
+763,763,Migraine,Severe
+764,764,Migraine,Mild
+765,765,Allergy,Moderate
+766,766,Covid-19,Moderate
+767,767,Flu,Mild
+768,1251,Allergy,Severe
+769,1390,Covid-19,Severe
+770,770,Covid-19,Severe
+771,771,Back Pain,Severe
+772,772,Migraine,Moderate
+773,773,Migraine,Mild
+774,774,Migraine,Severe
+775,775,Back Pain,Mild
+776,776,Flu,Moderate
+777,777,Covid-19,Mild
+778,778,Flu,Severe
+779,779,Covid-19,Mild
+780,780,Back Pain,Severe
+781,781,Migraine,Mild
+782,782,Allergy,Severe
+783,783,Allergy,Mild
+784,784,Allergy,Mild
+785,785,Back Pain,Mild
+786,786,Back Pain,Severe
+787,787,Migraine,Severe
+788,788,Migraine,Mild
+789,789,Covid-19,Severe
+790,790,Back Pain,Severe
+791,791,Covid-19,Mild
+792,792,Allergy,Moderate
+793,793,Flu,Mild
+794,794,Flu,Moderate
+795,795,Migraine,Moderate
+796,1293,Flu,Severe
+797,797,Migraine,Mild
+798,798,Flu,Severe
+799,799,Infection,Moderate
+800,800,Flu,Severe
+801,801,Back Pain,Moderate
+802,802,Infection,Mild
+803,803,Back Pain,Moderate
+804,804,Covid-19,Moderate
+805,805,Infection,Moderate
+806,806,Back Pain,Severe
+807,807,Back Pain,Severe
+808,808,Back Pain,Moderate
+809,809,Infection,Moderate
+810,810,Infection,Severe
+811,811,Migraine,Mild
+812,812,Allergy,Severe
+813,813,Infection,Moderate
+711,814,Migraine,Severe
+815,815,Back Pain,Severe
+816,816,Flu,Severe
+817,817,Back Pain,Mild
+818,818,Infection,Severe
+819,819,Back Pain,Moderate
+820,820,Flu,Mild
+821,821,Migraine,Severe
+822,822,Allergy,Severe
+823,823,Migraine,Severe
+824,824,Allergy,Moderate
+590,825,Allergy,Mild
+826,826,Covid-19,Severe
+827,827,Flu,Mild
+828,828,Covid-19,Moderate
+829,829,Migraine,Moderate
+830,830,Flu,Severe
+502,831,Back Pain,Mild
+832,832,Covid-19,Mild
+833,833,Allergy,Moderate
+834,834,Infection,Moderate
+835,835,Flu,Mild
+836,836,Covid-19,Mild
+837,1391,Infection,Mild
+838,838,Allergy,Moderate
+839,839,Migraine,Severe
+840,840,Allergy,Moderate
+841,841,Covid-19,Mild
+842,842,Back Pain,Severe
+843,843,Flu,Severe
+844,844,Covid-19,Moderate
+845,845,Covid-19,Severe
+846,846,Back Pain,Severe
+847,847,Back Pain,Severe
+848,848,Covid-19,Severe
+849,849,Migraine,Severe
+850,1308,Migraine,Mild
+851,851,Flu,Moderate
+852,852,Back Pain,Mild
+853,853,Migraine,Severe
+854,854,Flu,Mild
+855,855,Infection,Moderate
+856,856,Infection,Severe
+857,857,Migraine,Mild
+858,858,Flu,Severe
+859,859,Covid-19,Moderate
+860,860,Flu,Mild
+861,861,Allergy,Mild
+862,862,Flu,Moderate
+863,863,Allergy,Mild
+419,864,Back Pain,Mild
+865,865,Covid-19,Moderate
+866,866,Covid-19,Moderate
+867,867,Covid-19,Mild
+868,868,Allergy,Severe
+869,869,Back Pain,Severe
+870,870,Flu,Mild
+871,871,Migraine,Mild
+872,872,Flu,Moderate
+873,873,Allergy,Moderate
+874,874,Allergy,Moderate
+875,875,Infection,Mild
+876,876,Infection,Severe
+877,877,Infection,Moderate
+878,878,Allergy,Severe
+322,879,Covid-19,Mild
+880,880,Infection,Severe
+881,881,Flu,Severe
+882,882,Infection,Severe
+883,883,Allergy,Moderate
+884,884,Allergy,Severe
+885,885,Covid-19,Moderate
+886,886,Flu,Severe
+122,887,Back Pain,Moderate
+888,888,Covid-19,Moderate
+889,889,Flu,Moderate
+890,890,Flu,Moderate
+891,891,Allergy,Moderate
+892,892,Covid-19,Severe
+893,893,Migraine,Mild
+894,894,Allergy,Severe
+895,895,Covid-19,Mild
+896,896,Allergy,Severe
+897,897,Allergy,Mild
+898,898,Covid-19,Severe
+899,899,Flu,Severe
+900,900,Covid-19,Severe
+901,901,Back Pain,Severe
+902,902,Allergy,Severe
+903,903,Covid-19,Moderate
+904,904,Flu,Severe
+905,1486,Allergy,Mild
+906,906,Covid-19,Moderate
+907,907,Allergy,Mild
+908,908,Covid-19,Moderate
+909,909,Covid-19,Moderate
+910,910,Migraine,Moderate
+911,911,Covid-19,Mild
+912,912,Allergy,Moderate
+913,913,Infection,Moderate
+914,914,Migraine,Severe
+915,915,Allergy,Moderate
+916,916,Covid-19,Moderate
+917,917,Flu,Mild
+918,918,Flu,Moderate
+634,919,Covid-19,Severe
+920,920,Back Pain,Moderate
+921,921,Flu,Severe
+922,922,Back Pain,Mild
+923,923,Migraine,Severe
+924,924,Back Pain,Mild
+925,925,Flu,Mild
+926,926,Allergy,Mild
+927,927,Migraine,Mild
+928,928,Allergy,Mild
+929,929,Migraine,Moderate
+930,930,Migraine,Severe
+931,931,Flu,Moderate
+932,932,Covid-19,Moderate
+933,933,Flu,Mild
+934,934,Migraine,Moderate
+935,935,Allergy,Severe
+936,936,Covid-19,Mild
+937,937,Flu,Moderate
+938,938,Covid-19,Severe
+939,939,Allergy,Severe
+940,940,Infection,Moderate
+941,941,Migraine,Severe
+942,942,Allergy,Mild
+943,943,Migraine,Mild
+944,944,Back Pain,Mild
+945,945,Flu,Severe
+946,946,Back Pain,Severe
+947,947,Flu,Moderate
+948,948,Infection,Mild
+949,949,Back Pain,Severe
+950,1380,Flu,Severe
+951,951,Allergy,Moderate
+952,952,Flu,Severe
+953,953,Flu,Moderate
+954,954,Flu,Severe
+955,955,Allergy,Mild
+956,956,Migraine,Severe
+957,957,Infection,Mild
+958,958,Back Pain,Moderate
+959,959,Allergy,Severe
+960,960,Covid-19,Severe
+961,961,Allergy,Moderate
+962,962,Infection,Mild
+963,963,Covid-19,Mild
+964,964,Allergy,Mild
+965,965,Covid-19,Mild
+966,966,Infection,Moderate
+967,967,Allergy,Moderate
+968,968,Covid-19,Moderate
+969,969,Covid-19,Moderate
+970,970,Back Pain,Severe
+971,971,Infection,Moderate
+972,972,Covid-19,Moderate
+666,973,Infection,Moderate
+974,974,Allergy,Mild
+975,975,Allergy,Moderate
+976,976,Covid-19,Moderate
+977,977,Infection,Moderate
+978,978,Migraine,Severe
+979,979,Back Pain,Severe
+980,980,Migraine,Mild
+168,981,Infection,Severe
+982,982,Allergy,Severe
+983,983,Flu,Moderate
+984,984,Migraine,Moderate
+985,985,Allergy,Moderate
+986,986,Back Pain,Mild
+987,987,Back Pain,Mild
+988,988,Migraine,Mild
+989,989,Allergy,Mild
+990,990,Flu,Moderate
+991,991,Back Pain,Severe
+992,992,Back Pain,Moderate
+993,993,Covid-19,Mild
+994,994,Migraine,Severe
+995,995,Covid-19,Moderate
+996,996,Infection,Mild
+997,997,Allergy,Severe
+998,998,Allergy,Moderate
+999,999,Infection,Mild
+1000,1000,Back Pain,Moderate
+1001,1001,Allergy,Severe
+1002,1002,Back Pain,Moderate
+1003,1003,Migraine,Severe
+1004,1004,Covid-19,Mild
+1005,1005,Infection,Severe
+1006,1006,Flu,Moderate
+1007,1007,Covid-19,Mild
+1008,1008,Flu,Mild
+1009,1009,Migraine,Mild
+1010,1010,Migraine,Mild
+1011,1011,Back Pain,Severe
+1012,1012,Infection,Moderate
+1013,1013,Back Pain,Severe
+1014,1014,Migraine,Moderate
+1015,1015,Allergy,Moderate
+1016,1016,Covid-19,Severe
+1017,1017,Allergy,Mild
+1018,1257,Covid-19,Moderate
+1019,1019,Allergy,Severe
+1020,1020,Back Pain,Severe
+1021,1021,Migraine,Severe
+1022,1022,Flu,Severe
+1023,1023,Flu,Severe
+1024,1024,Migraine,Severe
+1025,1025,Back Pain,Moderate
+1026,1026,Flu,Severe
+1027,1027,Back Pain,Mild
+1028,1028,Migraine,Moderate
+1029,1029,Migraine,Severe
+1030,1030,Allergy,Severe
+1031,1031,Allergy,Mild
+1032,1032,Infection,Mild
+1033,1033,Migraine,Moderate
+1034,1034,Infection,Severe
+1035,1035,Flu,Severe
+1036,1036,Allergy,Moderate
+1037,1037,Migraine,Severe
+1038,1038,Flu,Moderate
+1039,1039,Back Pain,Moderate
+1040,1040,Back Pain,Mild
+1041,1041,Flu,Severe
+1042,1042,Back Pain,Mild
+1043,1043,Infection,Moderate
+1044,1044,Allergy,Moderate
+1045,1045,Allergy,Moderate
+1046,1046,Flu,Moderate
+1047,1047,Covid-19,Severe
+1048,1048,Allergy,Severe
+1049,1049,Infection,Severe
+1050,1050,Allergy,Moderate
+1051,1051,Flu,Moderate
+1052,1052,Infection,Moderate
+1053,1439,Migraine,Mild
+1054,1054,Migraine,Severe
+1055,1055,Allergy,Mild
+1056,1056,Allergy,Severe
+1057,1057,Infection,Severe
+1058,1058,Infection,Mild
+1059,1059,Back Pain,Moderate
+1060,1060,Infection,Moderate
+1061,1061,Infection,Severe
+1062,1062,Flu,Mild
+1063,1063,Allergy,Moderate
+1064,1064,Flu,Severe
+1065,1416,Migraine,Moderate
+1066,1066,Allergy,Moderate
+1067,1067,Flu,Severe
+1068,1068,Back Pain,Moderate
+1069,1069,Migraine,Moderate
+1070,1070,Covid-19,Severe
+1071,1491,Covid-19,Moderate
+1072,1072,Flu,Moderate
+1073,1073,Migraine,Severe
+1074,1074,Infection,Severe
+1075,1075,Migraine,Severe
+1076,1076,Flu,Moderate
+1077,1077,Infection,Mild
+403,1078,Flu,Severe
+1079,1079,Back Pain,Severe
+1080,1080,Covid-19,Severe
+1081,1081,Allergy,Severe
+1082,1082,Infection,Mild
+1083,1083,Allergy,Moderate
+1084,1084,Infection,Severe
+1085,1085,Back Pain,Moderate
+1086,1330,Allergy,Mild
+1087,1087,Covid-19,Severe
+1088,1088,Infection,Mild
+1089,1089,Back Pain,Moderate
+1090,1090,Migraine,Moderate
+1091,1091,Infection,Moderate
+1092,1092,Covid-19,Severe
+1093,1093,Allergy,Mild
+1094,1094,Allergy,Severe
+1095,1095,Allergy,Mild
+1096,1096,Allergy,Mild
+1097,1097,Infection,Severe
+1098,1098,Infection,Severe
+1099,1099,Back Pain,Moderate
+1100,1100,Migraine,Moderate
+1101,1101,Migraine,Severe
+1102,1102,Allergy,Mild
+1103,1103,Migraine,Severe
+1104,1104,Infection,Moderate
+1105,1105,Allergy,Severe
+1106,1106,Infection,Moderate
+1107,1107,Flu,Mild
+1108,1108,Infection,Mild
+1109,1109,Covid-19,Moderate
+352,1110,Allergy,Moderate
+1111,1111,Infection,Severe
+1112,1471,Back Pain,Mild
+1113,1113,Back Pain,Severe
+1114,1114,Covid-19,Severe
+1115,1115,Covid-19,Moderate
+1116,1116,Allergy,Severe
+1117,1117,Back Pain,Moderate
+1118,1118,Infection,Severe
+1119,1119,Covid-19,Severe
+1120,1120,Infection,Severe
+1121,1121,Covid-19,Mild
+1122,1122,Migraine,Moderate
+1123,1123,Migraine,Mild
+1124,1124,Back Pain,Severe
+1125,1125,Covid-19,Severe
+1126,1126,Back Pain,Moderate
+1127,1127,Back Pain,Severe
+1128,1128,Covid-19,Severe
+1129,1129,Migraine,Severe
+1130,1130,Infection,Severe
+1131,1131,Allergy,Severe
+1132,1132,Covid-19,Mild
+1133,1133,Back Pain,Mild
+1134,1134,Back Pain,Severe
+1135,1135,Covid-19,Moderate
+1136,1136,Infection,Mild
+1137,1137,Allergy,Severe
+1138,1138,Migraine,Moderate
+1139,1139,Back Pain,Mild
+1140,1140,Covid-19,Severe
+1141,1141,Migraine,Moderate
+1142,1142,Allergy,Severe
+1143,1143,Covid-19,Moderate
+1144,1144,Allergy,Moderate
+1145,1145,Covid-19,Severe
+1146,1146,Flu,Mild
+1147,1147,Back Pain,Moderate
+1148,1148,Allergy,Severe
+1149,1149,Infection,Severe
+1150,1150,Back Pain,Moderate
+1151,1151,Back Pain,Mild
+1152,1152,Allergy,Mild
+1153,1153,Covid-19,Severe
+1154,1154,Allergy,Severe
+1155,1155,Allergy,Mild
+1156,1156,Migraine,Mild
+1157,1157,Back Pain,Mild
+1158,1158,Infection,Moderate
+1159,1159,Covid-19,Moderate
+1160,1160,Allergy,Mild
+1161,1161,Infection,Moderate
+284,1162,Flu,Mild
+1163,1163,Infection,Moderate
+1164,1164,Migraine,Severe
+1165,1318,Allergy,Mild
+1166,1166,Covid-19,Mild
+1167,1167,Flu,Severe
+1168,1168,Infection,Mild
+1169,1169,Infection,Moderate
+1170,1170,Migraine,Moderate
+1171,1171,Allergy,Severe
+1172,1172,Infection,Moderate
+1173,1173,Migraine,Mild
+1174,1174,Allergy,Mild
+1175,1175,Flu,Severe
+1176,1176,Migraine,Mild
+1177,1177,Allergy,Mild
+1178,1178,Infection,Mild
+1179,1179,Migraine,Moderate
+1180,1180,Back Pain,Moderate
+1181,1181,Back Pain,Moderate
+1182,1182,Migraine,Severe
+1183,1183,Infection,Severe
+1184,1184,Covid-19,Moderate
+1185,1185,Allergy,Mild
+1186,1186,Allergy,Moderate
+1187,1187,Flu,Mild
+1188,1188,Migraine,Mild
+1189,1189,Back Pain,Severe
+1190,1190,Allergy,Mild
+1191,1191,Allergy,Mild
+1192,1192,Allergy,Severe
+1193,1193,Infection,Mild
+1194,1194,Flu,Moderate
+1195,1195,Allergy,Moderate
+1196,1196,Back Pain,Moderate
+1197,1197,Allergy,Severe
+1198,1198,Migraine,Mild
+1199,1199,Flu,Severe
+1200,1200,Infection,Mild

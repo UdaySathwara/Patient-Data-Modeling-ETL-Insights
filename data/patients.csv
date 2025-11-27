@@ -1,0 +1,501 @@
+patient_id,first_name,last_name,date_of_birth,gender,primary_condition
+1,Kiran,Tiwari,1996-11-05,M,Diabetes
+2,Ravi,Khanna,1988-10-10,M,Hypertension
+3,NITIN,  Verma  ,2010-04-24,M,Allergy
+4,Anita,Yadav,1982-02-26,F,DIABETES
+5,Akash,Agarwal,1969-05-08,M,Allergy
+6,Mahesh,Iyer,2011-08-31,M,Asthma
+7,Rita,Bhatia,1964-10-27,F,Unknown
+8,Anand,Bhatia,1984-03-10,M,Healthy
+9,lalita,Raman,2005-03-05,F,Allergy
+10,Deepak,Kaul,1977-11-15,M,Hypertension
+11,Arun,naik,1989-06-14,M,Asthma
+12,Pooja,Agarwal,2008-01-15,F,Hypertension
+13,Ananya,MEHTA,1957-12-24,F,Hypertension
+14,Asha,Tiwari,2019-07-30,F,Asthma
+15,jyoti,hegde,1964-01-16,F,Unknown
+16,Rekha,Roy,2003-05-18,F,Asthma
+17,Aisha,Chawla,1995-10-25,F,Allergy
+18,  Preeti  , Pillai,2004-12-07,f,Allergy
+19,Arjun,K@ul,1993-07-12,M,Asthma
+20,VIJAY,Mukherjee,2000-09-17,M,Hypertension
+21,sachin,Pandey,1963-05-06,M,Asthma
+22,Yogesh,Sharma,1963-05-10,M,Hypertension
+23,Vandana,Mukherjee,2020-06-01,F,Hypertension
+24,rekha,Bhat,1958-04-23,F,Healthy
+25,Rekha,Singh,2010-09-21,NA,Healthy
+26,Amit,Kumar,1968-09-25,O,Asthma
+27,Meera,Arora,1986-03-10,F,Diabetes
+28,Savita,Ghosh,2011-02-09,F,Heart Disease
+29,Varun,Agarwal,1979-08-28,M,Healthy 
+30,Harsh,Dutta,1999-07-27,Male,Healthy
+31,Parvati,Tiwari,1961-10-07,F,Diabetes
+32,Sakshi, Roy,1961-11-03,F,Healthy
+33,Savita,Mukherjee,1964-07-05,F,Diabetes
+34,Ananya,Krishnan,1964-05-18,F,Healthy
+35,Neha,Naik,1962-10-17,F,Asthma
+36,Sakshi, Sharma,1973-02-10,F,Diabetes
+37,Vivek,Singh,1990-10-29,O,Hypertension
+38,Suman,SAXENA,1955-09-04,F,Asthma
+39,Dev,Bose,1965-04-19,M,Heart Disease
+40,Ananya,Singh,1964-07-27,F,Diabetes
+41,Varun,mehta,1977-11-26,M,Diabetes
+33,Ashok,Banerjee,1961-11-07,M,Hypertension
+43,Kartik,Kulkarni,2008-06-29,m,Healthy
+44,Anjali,Nair,1981-06-20,F,Asthma
+45,Akash,ARORA,1998-07-22,M,Allergy
+46,Isha,Kulkarni,2000-08-20,f,Allergy
+47,Anil ,khanna,1977-08-01,M,diabetes
+48,Kavita,Reddy,1992-02-22,F,Heart Disease
+49,Madhuri,Mishra,2017-02-05,F,Hypertension
+50,Rahul,Sethi,1996-10-15,M,HEART DISEASE
+51,Pankaj,Shah,1977-09-18,M,Diabetes
+52, Priya,Kapoor,1993-12-09,F,Healthy
+53,  Divya  ,singh,2014-11-24,F,Diabetes
+54,Amit,SHAH,1994-08-15,M,Healthy
+55,Riya,Mukherjee,1958-03-19,F,Hypertension
+56,riya,Verma,2007-02-18,F,Hypertension
+57,Prakash,  Hegde  ,1976-08-30,M,Allergy
+58,Kanchan ,SINHA,1997-02-05,NA,Healthy
+59,Sandeep,Reddy,1980-03-03,M,Healthy
+60,Kartik,  Hegde  ,2003-01-23,M,Diabetes
+61,rohit,Agarwal,2003-08-21,M,Diabetes
+62,Anil,CHATTERJEE,1961-12-12,M,Asthma
+63,Pradeep,Mehta,1975-12-20,M,Asthma
+64,Rekh@,Mehta,2014-04-21,F,Diabetes
+65,Anita, Verma,1991-04-28,F,hypertension
+66,Hari,Kumar ,1967-04-16,M,Hypertension
+67,Sandeep,Deshpande,1990-10-29,M,
+68,Rohit, Dutta,1975-12-02,M,Allergy
+69,Swati,Ghosh,2010-06-19,F,Diabetes
+70,Rajesh,Khanna ,1962-01-24,M,Healthy
+71,Rahul,Joshi,1971-07-25,M,Hypertension
+72,Nisha,Saxena,1961-01-10,NA,Heart Disease
+73,Vivek,Iyer,1963-02-23,,Hypertension
+74,Prakash,Roy,1977-02-23,M,Healthy
+75,Krishna,Dutta,1964-08-07,M,Hypertension
+76,Pallavi,BHAT,1970-07-08,,Allergy
+77,sunita,sharma,2012-08-29,F,Heart Disease
+78,Sachin,Sinha ,1990-05-22,M,Diabetes
+79,Amit,Khanna,1992-12-11,M,Asthma
+80,Simran,Mehta,1957-02-19,F,N/A
+81,Anjali,Mukherjee,1979-10-20,F,Allergy
+82,shreya,Jain,1956-12-17,F,
+83,nitin, Tiwari,1955-11-14,M,HYPERTENSION
+84,Rekha,ROY,2009-04-01,F,Healthy
+85,Mohan,Das,1987-04-07,M,Healthy
+86,Prakash ,Arora,1974-08-16,M,Allergy
+87,Kiran,Raman,2000-06-10,m,Heart Disease
+88, Swati,Chopra,1983-11-18,,Heart Disease
+89,Ramesh,Mukherjee,1964-04-27,m,Healthy
+90,Yogesh,Mukherjee,2017-10-23,Male,Diabetes
+91,Manoj,Singh,2014-09-15,M,Diabetes
+92,Pankaj,Desai,2001-11-29,O,Heart Disease
+93,Jyoti,  Bhatia  ,1958-01-22,F,Diabetes
+94,Manisha,Desai,2020-07-10,F,Hypertension
+95,Naveen,Malhotra,1995-02-10,M,Hypertension
+96,Lakshmi,Bhat,1998-10-10,F,Asthma
+97,KIRAN,Khanna,1983-10-08,M,Allergy
+98,Simran,Gupta,2000-05-10,F,Heart Disease
+99,Sapna,Desai,1969-05-15,F,Heart Disease
+100, Aarav,Iyer,1984-04-30,M,Diabetes
+101,Suresh,Iyer,2013-02-18,m,Allergy
+102,Priya,Iyer,2007-11-08,F,Allergy 
+103,Ananya,SETHI,1993-08-08,f,Diabetes
+96,Rekha,Iyer,1978-04-24,F,Asthma
+105,Manish,Desai,1980-01-18,M,Diabetes
+106,Arun,chopra,1987-08-10,M,Asthma
+107,Kartik,N@ik,1959-03-07,M,Diabetes
+108,Savita,Shetty ,1958-04-30,F,Healthy
+109,  Rashmi  ,Kapoor,2007-12-22,F,
+110,Mahesh,Bose,2019-12-10,MALE,Allergy
+111,Pankaj,Chatterjee,2017-10-25,M,Heart Disease
+112,Ravi,Das,2012-09-11,M,Asthma
+113,Meera,Desai,2014-02-13,F,Asthma
+114,Dinesh,Singh,1968-02-21,m,Diabetes
+115,Anand, Malhotra,2006-07-06,M,Healthy
+116,Nitin,Patel,1962-07-25,m,Asthma
+117,Vivek ,Verma,1987-03-29,M,Healthy
+118,sunita, Hegde,1959-06-14,F,Hypertension
+119,PRAKASH,Menon,1989-02-21,M,Hypertension
+120,ASHOK,Shetty,2017-08-10,M,Diabetes
+121,Sandeep,Sharma,1982-10-04,Male,Asthma
+122,Priya,Agarwal,2001-03-24,F,Diabetes
+123,  Sakshi  ,Menon,1981-05-20,,N/A
+124,Rakesh,Kapoor,2007-01-31,M,healthy
+125,Deepika,Banerjee,1961-06-10,F,Healthy
+126,Ravi,CHATTERJEE,1969-10-23,M,Healthy
+127,Yogesh,  Desai  ,2001-04-13,M,Heart Disease
+128,Shreya,Ghosh,2008-09-10,F,Hypertension
+129,Priya,Roy,2019-12-11,F,Asthma
+130,Pallavi,  Das  ,2008-07-16,F,Asthma
+131,asha,NAIR,2003-04-25,F,Asthma
+132,Madhuri,Pillai,1975-06-09,F,Heart Disease
+133,Anil,Roy,1972-01-01,M,DIABETES
+134,Shweta,Agarwal ,2013-09-27,Female,Hypertension
+135,Pankaj,Naik,1982-08-26,M,Hypertension
+136,Vishal,saxena,2006-11-17,M,Heart Disease
+137,Radha,Kapoor,2015-01-05,F,healthy
+138,Nish@,P@ndey,1955-02-11,F,Healthy
+139,Ganesh,Deshpande,1965-04-08,M,ALLERGY
+97,Naveen,Sinha,1983-07-12,M,Heart Disease
+141,Mukesh,Pandey,1998-04-28,M,Healthy
+142,Parvati,Bhatia,1978-10-30,F,Hypertension
+143,Kartik,SHARMA,1962-07-14,M,Asthma
+144,Geeta,Desai,1963-06-05,F,Hypertension
+145,Rohit,Hegde,1968-11-23,M,asthma
+146,Kunal,KRISHNAN,1966-12-19,O,healthy
+147,Vivek,Sinha,1960-12-09,M,Diabetes
+148,vinod,Hegde,1973-01-17,M,Allergy
+149,Ashok,Banerjee,2008-07-23,m,Heart Disease
+150,Arun,Kumar,1978-03-01,M,Diabetes
+151,Kanchan,Dutta,1963-02-24,F,Asthma
+152,Pradeep ,Roy,1992-12-18,M,Allergy
+153,mohan,  Tiwari  ,2017-08-26,,heart disease
+154,Ashok,Agarwal,1974-04-13,,Asthma
+155,Manish,  Singh  ,1995-05-29,M,Allergy
+156,Manoj,Kaul,1986-02-22,Other,heart disease
+157,Manoj,agarwal,2010-02-14,M,Allergy
+158,Hari,Verma,1971-10-07,M,Diabetes
+159,Rita,  Joshi  ,2005-10-27,F,Diabetes
+160,Ajay,Chopra,1984-04-26,M,Healthy
+161,Lakshmi,Saxena,1987-06-04,,Allergy
+162,Sandeep,verma,2009-11-18,M,Allergy
+163,sapna,Reddy,1986-12-15,F,Allergy
+164,Varun,Das,1956-08-17,M,Allergy
+165,rakesh,Tiwari,2020-06-17,M,Healthy
+166,Naveen,Joshi,2000-01-20,M,Diabetes
+167,Suman,Chopra,1985-03-30,F,Heart Disease
+168,Usha,Ghosh,2008-01-30,F,Heart Disease
+169,Harsh,ARORA,1983-04-02,M,Allergy
+170,Vishal,Krishnan,2003-12-17,M,asthma
+171,Priya,Saxena,1986-05-27,F,Asthma
+172,Usha,Dutta,2007-05-10,F,Allergy
+173,Pallavi,Bhatia,2001-02-12,F,Allergy
+174,sakshi,Sharma,1988-09-30,F,Asthma
+175,TANVI,Das,1987-04-17,,Heart Disease
+176,Ramesh,Saxena,1998-09-26,M,Asthma
+177,Sita,ARORA,2019-08-21,NA,Allergy
+178,Kunal,Meht@,1978-08-26,M,Diabetes
+179,Shreya,Mehta,2018-06-14,F,Healthy
+180,Radha,Naik,1961-10-06,F,Hypertension
+181,Dinesh,Rao,2017-08-29,M,Asthma
+182,Sapna,Sinh@,1972-06-16,F,Hypertension
+183,seema,Arora,1988-11-09,F,Hypertension
+184,AISHA,Roy,1964-11-26,F,Diabetes
+185, Simran,Yadav,1990-11-20,F,Hypertension
+186,Vivek,Rao,1995-01-05,O,Heart Disease
+187, Varun,Bose,2000-05-21,O,Hypertension
+188,Asha,Arora,1968-08-20,F,Diabetes
+189,Ritu,Menon,1984-06-20,F,Hypertension
+190,Simran,Das,2000-03-19,F,Heart Disease 
+191,Gopal,Dutta,1962-07-23,M,Allergy
+192,  Arun  ,Banerjee,1982-07-24,M,ASTHMA
+193,Dev,Deshpande,1983-05-01,M,healthy
+194, Krishna,Shetty ,1973-07-09,M,Unknown
+195,Pankaj,Mehta,2017-07-11,O,Diabetes
+196,Usha,Saxena,1974-07-16,F,Heart Disease
+197,Vandana, Pandey,1995-07-19,F,Diabetes
+198,suresh,Yadav,2012-11-19,M,Asthma
+199,Amit,Malhotra,1957-01-24,M,Allergy
+200,Sameer,Verma,2004-10-31,M,Healthy
+201,Usha,Roy,2003-01-23,F,Diabetes
+202,Neha,Mehta,1973-04-11,F,Heart Disease
+203,Mahesh,  Jain  ,1958-03-06,M,Heart Disease
+204,Divya ,Mehta,1967-10-15,F,Healthy
+205,Sita,Hegde,2014-01-23,F,Heart Disease 
+206,nisha,Iyer,1997-05-31,NA,Heart Disease
+207,preeti,Bose,1961-02-06,F,Heart Disease
+208,Prakash ,Bhatia,1990-05-28,M,Asthma
+209,Mahesh,KRISHNAN,1958-10-27,M,heart disease
+210,Kanchan,  Shetty  ,1958-08-28,F,Heart Disease
+211,Shweta,Kaul,1993-05-26,,Asthma
+212,Sneha,  Kumar  ,1997-03-18,F,Heart Disease
+213,Ritu,Chawla,1960-02-11,F,Diabetes
+214,Rohit,Bhat,1999-06-02,M,Healthy
+215,Meera,Patel,1979-03-22,F,Heart Disease
+216,Meera,Mehta,1969-04-20,F,Heart Disease
+217,Aditi,Iyer,1994-03-21,F,Diabetes
+218,Kanchan,desai,2017-10-17,f,Asthma
+219, Mohan,K@poor,2012-10-03,Male,Allergy
+220,Tanvi,Iyer,1975-02-20,F,Allergy
+221,Pooja,Joshi,1991-12-12,F,Asthma
+222,Deepak,Roy,1966-03-10,M,Hypertension
+53,Usha,Iyer,1990-11-17,F,Diabetes
+224,Gopal,Chopra,1974-12-22,m,Diabetes
+225,Akash,SHARMA,1984-05-26,M,Healthy
+226,Kamala,Reddy,1980-05-17,F,Healthy
+227,Suman,Khanna,2009-10-24,F,asthma
+228,Shreya,Kumar,2014-08-01,F,Hypertension
+229,SNEHA,Deshpande,2008-05-06,F,Hypertension
+230,Yogesh,Bose,2011-11-17,M,Allergy 
+231,Madhuri,MEHTA,1961-02-20,F,Allergy
+232,Shreya,Kapoor,1955-03-23,F,ASTHMA
+233,Swati,Joshi,1981-04-20,F,Heart Disease
+234,Deepak,Hegde,1977-10-14,M,Healthy
+235,Asha,RAMAN,1960-05-22,F,Heart Disease
+236,Mohan,Nair,1963-03-31,M,Diabetes
+237,HARI,RAMAN,1967-07-26,MALE,Allergy
+238,Geeta,Pandey,1973-08-17,F,Heart Disease
+239,Suresh,Yadav,1993-11-24,m,Diabetes
+240,Vivek,Tiwari,2002-01-08,M,Allergy
+241,Anjali,Kumar,1971-09-07,F,Diabetes
+242,Hari,Chopra,1969-08-03,M,Diabetes
+243,Mahesh,Kumar,1959-01-24,NA,Allergy
+244,Lalita, Khanna,2012-01-18,F,Heart Disease
+245,Krishna,Bhat,1955-01-25,,Heart Disease
+246,Vijay,Reddy,1972-08-16,M,Allergy
+247,DEEPIKA, Chopra,1979-02-10,F,Healthy
+248,Pallavi,Shah,1987-04-23,F,Allergy
+249,suresh,Jain,1993-10-18,M,Healthy
+250,Ritu,banerjee,2012-07-23,F,
+251,Anil,Menon,1973-12-10,M,Heart Disease
+252,Ashok,Bose,2020-03-18,M,Hypertension
+253,  Pradeep  ,Hegde,1992-04-20,M,Heart Disease
+254,Vandana,Dutta,1998-12-27,F,Heart Disease
+255,P@rv@ti,Saxena,1961-09-08,f,Allergy
+256,Simran,Tiw@ri,2011-03-08,F,Heart Disease
+257,Harsh,saxena,1984-09-01,M,Diabetes
+258,Vish@l,Iyer,2007-04-20,M,Asthma
+259,Nitin,Hegde,1961-11-16,o,Hypertension
+260,Lakshmi,Ghosh,2017-09-12,F,Diabetes
+261,Kriti,Meht@,1959-12-11,F,Allergy
+262,Madhuri,Deshpande,1962-08-28,F,Hypertension
+263,Priya,Mehta,1986-12-08,F,Healthy
+264,Yogesh, Bose,1964-10-19,M,Healthy
+265,  Rohit  ,Bhatia,2003-05-21,M,Hypertension
+266,Anil,Kaul,1993-03-30,,allergy
+267,Anil,Rao,1990-03-30,M,Healthy
+268, Vijay,Das,2012-01-18,M,Allergy
+269,Ravi,Sinha,1969-01-06,M,Healthy
+270,Rita,Ghosh,1994-03-31,F,Hypertension
+271,Kiran,Saxena,1965-09-17,M,Hypertension
+170,Sakshi,khanna,1957-08-08,F,Asthma
+273,Mukesh,Singh,1974-11-28,M,Hypertension
+274,L@kshmi,sharma,1961-10-28,Female,Allergy
+275,Neha,Mukherjee,1992-12-27,F,Hypertension
+276,Vandana,Rao,1973-05-04,F,Heart Disease
+277,N@veen,Gupta,2006-04-21,M,Heart Disease
+278,Sanjay,  Desai  ,1967-04-18,M,Hypertension
+279,Mala,Bhat,2007-08-29,F,Heart Disease
+280,Manish,Chopra,1959-08-26,M,Heart Disease
+281,Parvati,Verma,1973-10-24,F,Asthma
+282,Yogesh,Pillai,1996-06-12,M,Asthma
+283,Naveen,Krishnan,1972-07-30,NA,diabetes
+284,Ashok,Mukherjee,2005-03-28,M,Heart Disease
+285,Dinesh,Deshpande,1971-12-24,M,Healthy
+286,Akash,Jain,1970-11-27,M,Hypertension
+287,Mala,Krishnan,2008-10-16,Female,Allergy
+288,Rajesh,Raman,1961-02-02,M,Healthy
+289,Suresh,Gupta,1958-08-17,MALE,Heart Disease
+290,Lakshmi,Nair,1956-02-17,FEMALE,Heart Disease
+291,Anil,Chopra,1972-07-12,M,Diabetes
+292,Rajesh,Ghosh,2007-01-27,M,Allergy
+293,Rahul,Chopra,2015-10-06,M,Heart Disease
+294,Shweta,Raman,1994-10-07,F,HYPERTENSION
+295,Lakshmi,Das,2007-02-04,F,allergy
+296,Mohan,Kulkarni,1971-06-05,M,asthma
+297,Suresh,Rao,2015-07-29,M,Hypertension
+298,vivek,Mehta,1993-08-05,M,allergy
+299,Kamal, Agarwal,1960-06-24,m,
+300,Krishna,Rao,2014-01-16,M,Heart Disease
+301,Siddharth,  Arora  ,2011-02-18,M,Healthy
+302,PALLAVI,Krishnan,2018-07-26,F,Hypertension
+303,Mohan,Nair,1978-05-31,M,Heart Disease
+304,Divya,Patel,1967-08-17,F,Allergy
+305,Sonal,Naik,2010-01-24,F,Allergy
+306,Rakesh,Mukherjee,1962-02-24,M,Asthma
+307,Sameer,Mehta,1959-07-06,OTHER,Allergy
+308,Vinod,Sethi,2004-02-02,M,DIABETES
+309,Yogesh,Chatterjee,1972-02-08,M,Asthma
+310,  Dev  ,Agarwal,1961-04-07,M,Allergy
+311,Rahul,Patel,2003-07-07,m,Healthy
+312,Sneha,Kulkarni,2016-02-23,F,Healthy
+313,Jyoti,Jain,1961-05-19,F,Asthma
+314,Kartik,Kulkarni,2008-06-24,M,Unknown
+315,Ajay,naik,2012-05-25,M,Diabetes
+316,Lalita,Deshpande,1994-11-20,F,asthma
+317,Aisha,Dutta,2012-11-23,F,Asthma 
+318,Yogesh,Menon,1964-09-01,M,Unknown
+319,Mohan,Raman,1981-10-01,M,Hypertension
+320,Sita,kapoor,1960-12-13,F,Allergy
+321,Aditi,Das,1971-03-09,F,Allergy
+322, Meera,Shah,1997-05-31,F,Asthma
+323,  Madhuri  ,Kulkarni,1973-12-20,F,Healthy
+324,Isha,Mukherjee,2007-03-10,F,Hypertension
+325,Anil,DAS,1991-08-19,M,Heart Disease
+326,Swati,Malhotra,1996-12-20,f,hypertension
+327,Ajay,Arora,2015-10-20,,Allergy
+328,  Lakshmi  ,Dutta,1996-09-23,F,Diabetes
+329,Ramesh,Patel,2020-03-08,M,Heart Disease
+330,Ananya,Desai,2018-03-08,F,Heart Disease
+331,Aarav,Singh,2010-03-01,m,Allergy
+332,Shreya,Bhat,1963-03-20,F,Heart Disease
+333,Ravi,Arora,1978-07-02,M,Heart Disease
+334,Krishna,Das,1997-08-08,M,Heart Disease
+335,Mala,Saxena,1960-07-11,F,Healthy
+336,Sanjay,Banerjee,2010-06-13,NA,Unknown
+337,  Madhuri  ,Banerjee,1961-01-14,F,Hypertension
+338,M@l@,Joshi,2018-11-25,F,Healthy
+339,Nitin,Pandey,1984-07-26,M,Asthma
+340,Varun,Sethi,1988-05-28,M,
+341,H@ri,Banerjee,1994-05-27,NA,Heart Disease
+342,Pankaj,Dutta,1956-04-25,M,Healthy
+343,Rekha,Joshi,2018-04-13,F,Hypertension
+344,Sachin,Naik,1988-05-20,M,Heart Disease 
+345,Arun,NAIK,2019-08-03,Male,Allergy
+346,Manoj,Chopra,1965-02-08,Male,Healthy
+347,Geeta,Chopra,1986-10-07,F,Allergy
+348,Ananya,Bose,2009-11-06,F,Diabetes
+349,Manish, Mukherjee,1989-02-17,m,Healthy
+350,Tanvi,  Kapoor  ,1986-12-12,Female,Allergy
+351,Manoj,Agarwal,1982-07-19,M,diabetes
+352,Vandana,Sinha,2020-11-03,F,Diabetes 
+353,Vishal,Banerjee,2009-09-03,M,Healthy
+354,Ramesh,Bose,1975-01-22,M,Healthy
+355,Vivek,Deshpande,1978-12-21,M,Asthma
+356, Sneha,VERMA,1964-04-29,Female,Asthma
+357,Rajesh,  Kulkarni  ,2007-06-13,M,Hypertension
+358,Prakash,Singh,2015-08-24,M,Asthma
+359,Mahesh,Mishra,1958-08-05,M,asthma
+360,Sameer,Saxena,1963-02-07,M,Healthy
+361,Kunal,Patel,2017-10-10,M,Diabetes
+362,Sandeep,mukherjee,1963-12-10,O,Heart Disease
+363,Mala,Krishnan,1970-09-22,F,Healthy
+364,Kavita,Hegde,1978-02-06,F,Heart Disease
+365,Ajay,Shah,1991-05-02,m,Allergy
+366,siddharth,Krishnan,1965-09-05,M,Hypertension
+367,Lalita,Krishnan,1981-02-01,FEMALE,Diabetes
+368,Ajay ,Chatterjee,1962-05-25,M,Diabetes
+369,Manoj,Hegde,1961-09-14,M,Diabetes
+370,MADHURI,Deshpande,2008-12-18,F,Hypertension
+371,Anita,Sharma,2014-05-20,F,Heart Disease
+372,Mohan,Das,2006-11-30,M,Heart Disease
+373,Anand,Sinha,1982-11-06,m,
+374,Savita,MISHRA,2010-05-09,F,
+375,Kamal,Shetty,2020-07-29,M,Hypertension
+376,Rahul,Das,1997-03-20,M,Hypertension
+377,gopal,Patel,2020-08-13,m,Heart Disease
+378,Arun,Raman,1971-08-22,M,Heart Disease
+379,Meera,Arora,1995-03-10,F,Heart Disease
+380,Suresh,Nair,1980-05-07,M,Heart Disease
+381, Harsh,Ghosh,1989-08-16,M,Heart Disease
+382,Mohan,NAIK,2017-01-31,O,Allergy
+383,Deepika,Chopra,1989-01-08,F,Hypertension
+384,Vandana,Shah,1980-05-09,f,Hypertension
+385,Kavita,Shetty,1979-10-29,f,Healthy
+386,Mukesh,Ghosh,1965-08-21,M,Heart Disease
+387,ANITA,BANERJEE,2007-02-18,F,Allergy
+388,Nitin,CHOPRA,1958-03-07,M,Allergy
+389,Sakshi,Roy,1957-11-18,F,Hypertension
+390,Mahesh,Shetty,1991-05-08,M,Diabetes
+391,Nitin,Pillai,1991-09-15,M,Diabetes
+392,Sita,Ghosh,1972-12-05,f,Healthy
+393,Ritu,Yadav,1996-07-10,F,Healthy
+64,M@l@,Nair ,1988-06-20,F,Diabetes
+395,Arjun,Mehta,1998-02-19,M,
+396,REKHA,  Patel  ,2007-09-13,F,Asthma
+397,SHREYA,  Gupta  ,2020-11-24,F,Diabetes
+398,Manish,Kumar,2015-04-07,M,healthy
+161,Siddharth,Kaul,1979-07-12,M,Healthy
+400,Anil,Roy,1959-11-26,M,Heart Disease
+401,Vinod,Yadav,1983-10-13,M,Healthy
+402,Sneha,Dutta,1966-10-12,F,Hypertension
+403,Pankaj,Sethi,1959-04-09,M,Hypertension
+404,Parvati,Khanna,1956-02-18,F,Asthma
+405,Yogesh,Das,1996-06-05,M,HEART DISEASE
+321,Gopal,Naik,1980-12-20,M,Asthma 
+407,Gopal,saxena,2020-09-17,M,ASTHMA
+408,Aish@,Chopra,1972-05-13,F,Asthma
+409,Savita,Jain,1989-05-15,F,Diabetes 
+410,Kartik,Mukherjee,2010-12-05,M,Asthma
+411,Manish,Ghosh,1969-03-12,Male,Heart Disease
+412,Meera,Banerjee,1958-04-11,F,Allergy
+413,Rekha,Tiwari,1981-05-18,F,Hypertension
+414,prakash,Bose,1995-04-21,M,
+415,Pooja,Kapoor,1969-04-24,F,Asthma
+416,Priya,Joshi,1964-09-08,f,Diabetes
+417,Krishna,Agarwal,1955-09-28,M,Hypertension
+109,Mahesh,Tiwari,1999-10-12,M,Healthy
+419,Kunal,Roy,1959-08-05,M,Heart Disease
+420,Suresh,Sethi,1997-06-08,M,DIABETES
+421,Rekha,Roy,1972-08-25,F,Heart Disease
+422,  Aisha  ,Sharma,2018-06-22,F,Allergy
+423,Mohan,Bose,2006-11-10,M,Allergy
+424, Prakash,Menon,1967-09-15,O,Asthma
+425,Sandeep,Sethi,2012-08-11,o,hypertension
+426,Ramesh,Bhat,1980-03-29,m,Allergy
+427,Tanvi,Pandey,1980-04-07,F,Allergy
+428,Lakshmi,Malhotra,1961-11-05,F,Heart Disease 
+429,  Harsh  ,Chawla,1974-10-01,M,diabetes
+19,Usha,Bhat,1979-09-28,F,Allergy
+431,Preeti,Roy,2016-10-04,F,Diabetes
+432,Tanvi,  Deshpande  ,1968-11-16,F,Asthma
+433,Neha,joshi,1980-11-17,F,Healthy
+434,Sita,Kapoor,1981-08-14,F,Diabetes
+435,Mukesh,chawla,1995-12-01,MALE,Allergy
+436,mohan,HEGDE,1996-10-25,O,Allergy
+437,NISHA,Pillai,1974-05-07,F,Healthy
+438,Vishal,Roy,1985-07-30,M,Allergy
+439,Deepak ,tiwari,1979-11-26,M,Diabetes
+440,Radha,Joshi,1974-05-03,F,Heart Disease
+441,Sapna,Joshi,2004-05-15,F,N/A
+442,Aarav,Kumar,2010-08-01,M,Allergy
+443,Hari,bhat,2001-08-24,M,Heart Disease
+444,Ganesh,SHAH,1986-08-30,M,Heart Disease
+445, Kavita,Pillai,2007-02-05,F,Hypertension
+446,Neha,VERMA,1974-11-15,F,Allergy
+447,  Vishal  ,Shetty,1972-05-10,M,Hypertension
+448,Simran,Raman,1966-02-03,F,Diabetes
+449,Suresh,Agarwal,1973-09-14,O,Diabetes
+450,Shyam,Naik,1989-05-29,M,Heart Disease
+451,Akash, Shah,1976-01-22,M,Allergy
+452,Varun,Menon,1978-11-26,M,Healthy
+453,pankaj,Roy,1994-08-13,MALE,Allergy
+454,NITIN,Sharma,1962-02-19,M,Asthma
+455,Dev,Hegde,1999-01-20,M,Hypertension
+456,Krishna,Agarwal,1956-10-15,,Diabetes
+457,Lalita,Verma,1981-09-03,F,Hypertension
+458,SACHIN,  Banerjee  ,1993-01-22,M,Hypertension
+459,Sachin,Agarwal,1965-01-26,M,Asthma
+460,Ajay,Iyer,2019-12-09,M,Healthy
+461,Arun,Bhat,2010-08-02,M,Heart Disease
+462,SHWETA,Chawla,1994-11-23,F,Hypertension
+463,rajesh,Chawla,1960-12-30,Male,Heart Disease
+464,Krishna,Khanna,1992-07-21,M,Asthma
+465,Siddharth,Jain,1984-10-06,Male,Diabetes
+466,Sita,Deshp@nde,1999-06-13,F,ASTHMA
+467,Radha,Mukherjee,1963-04-21,F,Allergy
+468,Manisha,Mishra,1982-07-07,F,Hypertension
+469,Jyoti,Dutta,1993-01-06,F,asthma
+470,Sandeep,Sethi,1993-01-20,M,Allergy 
+471,Suresh ,Kapoor,1984-07-18,MALE,Heart Disease
+472,Sachin,Naik,1979-01-01,M,Hypertension
+473,ASHA,DESAI,1965-05-18,F,Hypertension
+474,Shweta,YADAV,2020-11-02,F,Heart Disease
+98,Kartik,Verma,1996-10-13,m,Allergy
+476,Sneha,Mukherjee,1985-05-31,F,Diabetes
+477,Gopal,Das,1957-03-03,NA,Hypertension
+478,Mukesh,Hegde,2009-05-28,M,Heart Disease
+479,Asha,Chawla,2012-12-02,F,Healthy
+480,Vivek,Bhat,2008-07-02,M,Allergy
+481,Vijay,DAS,1969-11-15,M,Asthma
+482,Vivek,Saxena,1971-12-05,M,Hypertension
+483,AKASH,Kaul,2010-04-30,M,asthma
+484,SURESH,Dutta,1994-02-24,M,Healthy
+485,Kamala,kumar,1958-04-04,F,Asthma
+486,Arun,Verma,1980-05-24,M,
+487,Rekha,Bhatia,1980-09-02,F,Heart Disease
+488,Ritu,  Arora  ,1973-01-06,F,Diabetes
+489,Riya,Mehta,1960-02-22,F,Allergy
+490,Vijay,Jain,2019-10-02,M,Heart Disease
+491,Prakash,Sinha,2011-09-06,M,Healthy
+492,Vivek,Gupta,1989-04-03,M,Diabetes
+493,Radha,Chawla,1976-11-05,F,Asthma
+494,Geeta,  Raman  ,1980-05-26,F,Healthy
+495,Vandana,  Bhatia  ,2020-12-24,F,diabetes
+496,Mohan ,SETHI,1960-06-28,M,Diabetes
+497,Rashmi,Deshpande,1965-08-29,F,Heart Disease 
+498,Siddh@rth,SHETTY,1976-07-30,M,Diabetes
+499,  Sunita  ,Dutta,1981-04-13,F,Hypertension
+500,DEEPIKA,Bhatia,1999-12-30,F,Healthy
