@@ -11,7 +11,7 @@ This project simulates a real-world Hospital Patient Analytics System, where raw
 
 The workflow follows the Medallion Architecture:
 
-![Data Architecture](docs/Data_architecture.png)
+![Data Architecture](docs/data_architecture.png)
 1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 2. **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
@@ -54,25 +54,43 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 ```
 Healthcare-Data-Warehouse/
 │
-├── Data/                             # Raw CSV input files
+├── data/                             # Raw CSV input files
 │   ├── patients.csv
 │   ├── doctors.csv
 │   ├── visits.csv
 │   └── diagnosis.csv
 │
-├── SQL/                              # SQL scripts for DW layers
-│   ├── bronze.sql
-│   ├── silver.sql
-│   └── gold.sql
-│ 
+│
+├── docs/                             # Architecture diagrams
+│   ├── data_architecture.png
+│   ├── data_catlog.md
+│   └──  naming_conventions.md
+│   
 │
 ├── Python/                           # Python ETL scripts
 │   ├── etl_load_bronze.py
 │   └── etl_transform_to_silver.py
+│
+│
+├── sql/                              # SQL scripts for DW layers
+│   ├── bronze.sql
+│   ├── silver.sql
+│   └── gold.sql
 │   
 │
-└─── .gitignore                       # Project overview and instructions
-└─── LICENSE                          # License information for the repository 
+├── .gitignore                        # Project overview and instructions
+├──  LICENSE                          # License information for the repository 
 └─── README.md                        # Files and directories to be ignored by Git
 
 ```
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+
+---
+
+## 🌟 About the Author
+
+**Uday Sathwara** — B.Tech Computer Engineering student. Passionate about data engineering, building ETL pipelines, and creating analytics solutions.
