@@ -34,6 +34,9 @@ This project involves:
 - Data Modeling  
 - Data Analytics  
 
+Data Model (star schema):
+
+![Data Model](docs/data_model.png)
 ---
 
 ## 🚀 Project Requirements
