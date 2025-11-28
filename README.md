@@ -34,7 +34,7 @@ This project involves:
 - Data Modeling  
 - Data Analytics  
 
-Data Model (star schema):
+### Data Model:
 
 ![Data Model](docs/data_model.png)
 ---
@@ -72,7 +72,8 @@ Healthcare-Data-Warehouse/
 ├── docs/                             # Architecture diagrams
 │   ├── data_architecture.png
 │   ├── data_catlog.md
-│   └──  naming_conventions.md
+|   ├── data_model.png
+│   └── naming_conventions.md
 │   
 │
 ├── Python/                           # Python ETL scripts
@@ -86,9 +87,9 @@ Healthcare-Data-Warehouse/
 │   └── gold.sql
 │   
 │
-├── .gitignore                        # Project overview and instructions
+├── .gitignore                        # Files and directories to be ignored by Git
 ├──  LICENSE                          # License information for the repository 
-└─── README.md                        # Files and directories to be ignored by Git
+└─── README.md                        # Project overview and instructions
 
 ```
 
