@@ -11,7 +11,7 @@ from urllib.parse import quote_plus
 # CONFIGURATION
 # =======================
 DB_USER = "root"          # MySQL username
-DB_PASS = quote_plus("Uday@224") # MySQL password
+DB_PASS = quote_plus("Your_password") # MySQL password
 DB_HOST = "localhost"     # MySQL host
 DB_PORT = 3306
 DB_NAME = "healthcare_dw"
@@ -171,5 +171,6 @@ for table in ['silver_patients','silver_doctors','silver_visits','silver_diagnos
             print(f" -> {table}: {count} rows")
     except Exception as e:
         print(f"Error verifying {table}: {e}")
+
 
 print("\nETL PIPELINE COMPLETED SUCCESSFULLY!")
