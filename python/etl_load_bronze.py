@@ -7,7 +7,7 @@ import os
 
 # === CONFIG - change these ===
 DB_USER = "root"
-DB_PASS = urllib.parse.quote_plus("Uday@224")
+DB_PASS = urllib.parse.quote_plus("Your_Password")
 DB_HOST = "localhost"
 DB_PORT = 3306
 DB_NAME = "healthcare_dw"
@@ -35,3 +35,4 @@ if __name__ == "__main__":
     load_csv_to_bronze("visits.csv", "bronze_visits")
     load_csv_to_bronze("diagnosis.csv", "bronze_diagnosis")
     print("Bronze load complete.")
+
